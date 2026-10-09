@@ -1,0 +1,6 @@
+{
+  "name": "Atelier - Cinematic Digital Design Studio",
+  "description": "Dark, cinematic web design agency crafting brand-defining digital experiences with liquid glass morphism and fluid motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
